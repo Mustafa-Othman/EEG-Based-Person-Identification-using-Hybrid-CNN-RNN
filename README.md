@@ -170,7 +170,7 @@ Run all cells. The notebook will:
 
 ## Authors
 
-Developed by **Mustafa Othman**
+Developed by **Mustafa Othman & Seifeldin ibrahim**
 
 ---
 
